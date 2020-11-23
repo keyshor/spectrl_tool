@@ -1,5 +1,5 @@
 # SPECTRL
-SPECifying Tasks for Reinforcment Learning: Tool that allows users to write RL specifications in a logical language and uses the specfication to automatically learn a policy.  
+This repo contains code for the paper "A Composable Specification Language for Reinforcement Learning Tasks" (https://arxiv.org/abs/2008.09293). SPECTRL (SPECifying Tasks for Reinforcment Learning) is a tool that allows users to write RL specifications in a logical language and uses the specfication to automatically learn a policy. 
 
 ## Dependencies
 
